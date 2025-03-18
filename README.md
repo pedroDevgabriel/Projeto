@@ -1,4 +1,4 @@
-**Projeto-Genius by Dio**
+# Projeto-Genius by Dio
 Esse projeto tem como objetivo testar as habilidades de:
 
 *[HTML] (https://www.w3schools.com/html/)
